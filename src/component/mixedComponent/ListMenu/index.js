@@ -4,7 +4,7 @@ import Menu from "../../singleComponent/Menu";
 const ListMenu = (props) => {
   return (
     <div>
-      <ul className={"Menus"}>
+      <ul className="Menus">
         <Menu active link="/Home">
           Нүүр
         </Menu>
